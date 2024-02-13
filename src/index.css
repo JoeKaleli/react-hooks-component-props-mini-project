@@ -57,3 +57,9 @@ article h3 {
   color: var(--link);
   margin-bottom: 0rem;
 }
+
+App
+{
+  border-radius: 23%;
+  border-bottom: #61dafb;
+}
